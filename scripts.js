@@ -7,7 +7,7 @@ if (value > 0) {
     console.log('wynik dodatni');
 }
 if
-else(value = 0) {
+else(value == 0) {
     console.log('wynik rowny 0')
 } else {
     console.log('wynik ujemny');
